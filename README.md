@@ -8,4 +8,4 @@ Currently Bike Care is (partly) translated in Dutch, and available in English as
 
 ![nl translation](https://img.shields.io/badge/dynamic/json?color=blue&label=nl&style=plastic&logo=crowdin&query=%24.progress[?(@.data.languageId==%27nl%27)].data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-16241540-649662.json)
 
-![en translation](https://img.shields.io/badge/dynamic/json?color=blue&label=en&style=plastic&logo=crowdin&query=%24.progress[?(@.data.languageId==%27en%27)].data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-16241540-649662.json)
+![en translation](https://img.shields.io/badge/dynamic/json?color=blue&label=en&style=flat&logo=crowdin&query=%24.progress[?(@.data.languageId==%27en%27)].data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-16241540-649662.json)
