@@ -10,6 +10,13 @@ Currently Bike Care is (partly) translated in Dutch, and available in English as
 
 ![en translation](https://img.shields.io/badge/dynamic/json?color=blue&label=en&style=flat&logo=crowdin&query=%24.progress[?(@.data.languageId==%27en%27)].data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-16241540-649662.json)
 
+## App
+I'm happy to tell there's an Android app that you can download from the Play Store.
+
+<a href='https://play.google.com/store/apps/details?id=com.gerbenbol.bikecare.twa'><img style="width: 258px !important; height: 100px !important;" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+An iOS app would be nice, but currently too expensive. If anyone would like to help make that a reality let me know!
+
 ## Donating
 Although Bike Care is free to use, and I am very pasionate about developing it, it's not free to make. I have to pay for web hosting, power, developer accounts, and I put a lot of my free time in it. It would be great to lose money on it, and some reward for my hard work.
 
