@@ -20,3 +20,8 @@ Buy Me a Coffee
 PayPal
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=NXD3UJGKXWKQ8" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="PayPal" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+## Community
+You can also find Bike Care on:
+- Strava: https://www.strava.com/clubs/bike-care
+- Reddit: https://www.reddit.com/r/bikecare/
